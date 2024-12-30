@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sorynnn
 - 👀 I’m interested in learning more about data!
-- 🌱 I’m currently in a Masters of Data Science program, learning Advanced Analytic tools and Power BI
+- 🌱 I’m a recent graduate with Masters of Business Analytics
 - 📫 How to reach me https://www.linkedin.com/in/soryn/ 
 
 <!---
